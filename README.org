@@ -4,6 +4,6 @@ Tiny Common Lisp library to create image thumbnails with imagemagick.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/trivial-thumbnail.git |
-| commit  | 968ef0b                                               |
+| commit  | 81e8f95                                               |
 | systems | trivial-thumbnail                                     |
 |---------+-------------------------------------------------------| 
